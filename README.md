@@ -82,8 +82,6 @@ Visitante → Sitio público → Panel admin → API PHP → emprendimientos.jso
 
 ![Home](assets/screenshots/home.jpg)
 
-![Página completa](assets/screenshots/pagina-completa.jpg)
-
 ### Perfil de emprendimiento
 
 ![Perfil](assets/screenshots/perfil.jpg)

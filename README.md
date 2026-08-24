@@ -5,8 +5,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-API%20REST-777BB4?logo=php&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-instalable-5A0FC8?logo=pwa&logoColor=white)
+![Demo](https://img.shields.io/badge/demo-munisalaverry.gob.pe-38a169)
 
 **Salaverry Emprende** es el directorio web de emprendedores del Puerto de Salaverry (La Libertad, Perú), una iniciativa de la Municipalidad Distrital para promover el comercio local: catálogo público con búsqueda y filtros, perfiles individuales compartibles, panel de administración con CRUD completo y soporte PWA.
+
+---
+
+## 🚀 Demo en vivo
+
+**👉 [munisalaverry.gob.pe/salaverry_emprende](https://munisalaverry.gob.pe/salaverry_emprende/index.html)**
+
+- Sitio público: `munisalaverry.gob.pe/salaverry_emprende`
+- Panel admin: `munisalaverry.gob.pe/salaverry_emprende/admin`
 
 ---
 
@@ -70,17 +80,17 @@ Visitante → Sitio público → Panel admin → API PHP → emprendimientos.jso
 
 ### Sitio público
 
-![Home](assets/screenshots/home.png)
+![Home](assets/screenshots/home.jpg)
 
-![Página completa](assets/screenshots/pagina-completa.png)
+![Página completa](assets/screenshots/pagina-completa.jpg)
 
 ### Perfil de emprendimiento
 
-![Perfil](assets/screenshots/perfil.png)
+![Perfil](assets/screenshots/perfil.jpg)
 
 ### Panel administrativo
 
-![Login del panel](assets/screenshots/admin-login.png)
+![Login del panel](assets/screenshots/admin-login.jpg)
 
 ---
 
@@ -104,6 +114,7 @@ Detalle completo: [docs/arquitectura.md](docs/arquitectura.md)
 
 ## 🔗 Enlaces
 
+- **Demo**: [munisalaverry.gob.pe/salaverry_emprende](https://munisalaverry.gob.pe/salaverry_emprende/index.html)
 - **Documentación de arquitectura**: [docs/arquitectura.md](docs/arquitectura.md)
 
 ---
